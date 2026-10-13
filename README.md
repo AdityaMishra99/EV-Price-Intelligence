@@ -7,10 +7,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20charts-3F4F75?logo=plotly&logoColor=white)
 
-> **Live demo:** _add your Streamlit Community Cloud link here_
-
-<!-- Add a screenshot or GIF of the app: ![App preview](docs/images/app-preview.png) -->
-
 ---
 
 ## Table of contents
