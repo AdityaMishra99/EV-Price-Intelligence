@@ -479,9 +479,9 @@ The app deploys free on [Streamlit Community Cloud](https://streamlit.io/cloud):
 
 ## 15. Author
 
-**Your Name**
+**Aditya Mishra**
 Data Analytics and Machine Learning
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/adityaakmmishra) · [GitHub](https://github.com/AdityaMishra99) · adi.mishra.akm@gmail.com
 
 _Built with Python, scikit-learn, Plotly, and Streamlit._
